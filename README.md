@@ -5,7 +5,7 @@
 
  Se realizaron 20 pruebas a un actuador suave elaborado con Ecoflex 00-30, en movimiento.
  Los datos se adquieron a tráves de un sistema de camáras motive que permite registrar la posición y rotación
- de unos marcadores que se adhieren al objeto de interes.
+ de unos marcadores que se adhieren al objeto de interes, y estan almacenados en la carpeta "Pruebas_ok".
 
  Se emplearon dos software para análizar los datos adquiridos.
  Para el análisis de las gráficas y resumen estadisticos se realizo con Rstudio.
