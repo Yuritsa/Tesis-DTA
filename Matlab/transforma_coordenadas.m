@@ -1,3 +1,7 @@
+%Este script corresponde a las matrices de transformacion de coordenadas
+%para los actuadores suaves desarrollados en la tesis de doctorado de 
+%Yuritsa Páez, UPIITA- IPN
+
 % Parámetros del actuador
 length_actuator = 100e-3; % Longitud total del actuador en metros
 num_segments = 2; % Número de segmentos para discretizar el actuador
